@@ -1,7 +1,7 @@
 # Comfyui-Sparse-Attention
 
 This is a standalone version of the `ComfyUI-H3-SLA-Attention` node from
-[ComfyUI-PlagueKind-Nodes](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) all credit goes to the original authors credited below.
+[ComfyUI-PlagueKind-Nodes](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) pack, all credit goes to the original authors listed below.
 
 ## Important note
 
