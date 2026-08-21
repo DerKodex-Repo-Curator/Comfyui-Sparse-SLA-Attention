@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-sparse-attention"
+description = "Block-sparse (SLA) attention for MiniMax-H3 -- the inference path the lightx2v SLA turbo LoRA was distilled against."
+version = "1.0.0"
+license = "MIT"
+# requires-comfyui = ">=1.0.0"  # ComfyUI version compatibility
+
+[project.urls]
+# Point Repository at this pack's own URL when you publish it.
+Upstream = "https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes"
+# "Bug Tracker" = "https://github.com/<you>/Comfyui-Sparse-Attention/issues"
+
+[tool.comfy]
+DisplayName = "Comfyui-Sparse-Attention"
+Icon = ""
+includes = []
